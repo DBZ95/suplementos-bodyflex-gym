@@ -1,0 +1,31 @@
+.titulos:hover{
+    font-size: x-large;
+}
+
+
+.simu{
+    height: 1500px;
+    background-color: rgb(245, 250, 248);
+}
+
+
+#Importante{
+    background-color: brown;
+    color: white;
+}
+
+#Calidad{
+    background-color: blue;
+}
+
+#Inicio{
+    color: aliceblue;
+}
+
+#productos{
+    color: aliceblue;
+}
+
+#Ofertas{
+    color: aliceblue;
+}
